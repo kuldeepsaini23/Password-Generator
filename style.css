@@ -321,6 +321,18 @@ h1 {
     width: 80%;
     height: 35rem;
   }
+
+  .circle1{
+    width: 9em;
+    height: 9em;
+    left: 13%;
+  }
+
+  .circle2{
+    width: 16em;
+    height: 16em;
+    right: 10%;
+  }
  
   h1{
     width: 150%;
@@ -351,6 +363,18 @@ h1 {
   .container{
     width: 60vw;
     height: 60vh;
+  }
+
+  .circle1{
+    width: 5em;
+    height: 5em;
+    top: 20%;
+  }
+
+  .circle2{
+    width: 11em;
+    height: 11em;
+    right: 0;
   }
  
   h1{
